@@ -1,6 +1,8 @@
-👋 Hi, I'm Kumaar
+👋 Hi, I'm Rahul Kumaar
+
 💼 Seasoned Technology Architect & Microsoft 365 Specialist
 With over 18 years of experience in designing, deploying, and managing advanced technology solutions, I specialize in Microsoft 365, Azure, and cybersecurity implementations that drive productivity and enhance security posture.
+
 🔧 Technical Skills
 
 Microsoft 365 Suite: Implementation, Migration, Security & Compliance
@@ -33,10 +35,10 @@ IBM Enterprise Design Thinking Practitioner
 🌱 Current Focus
 I'm currently enhancing my expertise in:
 
-Cloud Security Posture Management
 Zero Trust Architecture Implementation
-Microsoft Sentinel and Advanced Threat Protection
-Graph API Integrations for Enterprise Applications
+Terraform
+Python
+CISSP
 
 📫 Let's Connect
 Feel free to reach out for collaborations or discussions on Microsoft 365, Azure security, or modern workplace transformations!
