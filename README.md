@@ -1,4 +1,4 @@
-👋 Hi, I'm Rahul Kumaar
+# 👋 Hi, I'm Rahul Kumaar
 
 ## 💼 Seasoned Technology Architect & Microsoft 365 Specialist
 With over 18 years of experience in designing, deploying, and managing advanced technology solutions, I specialize in Microsoft 365, Azure, and cybersecurity implementations that drive productivity and enhance security posture.
