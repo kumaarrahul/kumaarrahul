@@ -5,35 +5,32 @@ With over 18 years of experience in designing, deploying, and managing advanced 
 
 🔧 Technical Skills
 
-Microsoft 365 Suite: Implementation, Migration, Security & Compliance
-Microsoft Azure: Solutions Architecture, Identity Management, Security
-Security: Defender, MFA, SSO, Conditional Access, DLP, MIP
-Unified Communications: Microsoft Teams, AudioCodes, SIP
-Device Management: Microsoft Intune, SCCM
-Infrastructure: Exchange, Active Directory, Windows Server
+•	Microsoft 365 Suite: Implementation, Migration, Security & Compliance
+•	Microsoft Azure: Solutions Architecture, Identity Management, Security
+•	Security: Defender, MFA, SSO, Conditional Access, DLP, MIP
+•	Unified Communications: Microsoft Teams, AudioCodes, SIP
+•	Device Management: Microsoft Intune, SCCM
+•	Infrastructure: Exchange, Active Directory, Windows Server
 
-🏆 Key Achievements
-
-Reduced data security incidents by 30-35% through Microsoft 365 Security and Compliance solutions
-Achieved £1 million annual cost savings by transitioning from third-party conferencing to Microsoft Teams
-Improved client productivity by 25% through comprehensive Microsoft 365 training
-Modernized UC infrastructure resulting in 20% increased efficiency and 15% reduced costs
-Executed over 150 Microsoft 365 implementations for Education, Healthcare, and Manufacturing sectors
 
 📜 Certifications
 
-Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
-Microsoft Certified Trainer 2023-2024
-Microsoft 365 Certified: Security Administrator Associate (MS-500)
-Microsoft Certified: Azure Security Engineer Associate (AZ-500)
-Microsoft Certified: Azure Administrator Associate (AZ-104)
-Microsoft 365 Certified: Exchange Online Support Engineer (MS-200)
-UBC Micro-certificate in Cybersecurity Strategy and Risk Management
-Foundations of Operationalizing MITRE ATT&CK
-IBM Enterprise Design Thinking Practitioner
+•	Microsoft Certified AZ 305: Microsoft Certified: Azure Solutions Architect Expert
+•	Microsoft Certified AZ-104: Azure Administrator Associate
+•	Microsoft Certified AZ-500: Azure Security Engineer Associate
+•	Microsoft 365 Certified MS-500: Security Administrator Associate
+•	Microsoft 365 Certified MS-900: Fundamentals
+•	Microsoft Certified AI-900: Azure AI Fundamentals
+•	Microsoft Certified AZ-900: Azure Fundamentals
+•	Microsoft Certified SC-900: Security, Compliance, and Identity Fundamentals
+•	Microsoft 365 Certified MS-200: Exchange Online Support Engineer
+•	UBC Micro-certificate in Cybersecurity Strategy and Risk Management
+•	Microsoft Certified Trainer 2023-2024
+•	Foundations of Operationalizing MITRE ATT&CK
+•	IBM Enterprise Design Thinking Practitioner
 
 🌱 Current Focus
-I'm currently enhancing my expertise in:
+I'm currently learning & enhancing my expertise in:
 
 Zero Trust Architecture Implementation
 Terraform
