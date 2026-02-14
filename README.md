@@ -31,7 +31,7 @@ With over 18 years of experience in designing, deploying, and managing advanced 
 ## 🌱 Current Focus
 I'm currently learning & enhancing my expertise in:
 
--AI 102: Azure AI Engineer Associate 
+- AI 102: Azure AI Engineer Associate 
 - Zero Trust Architecture Implementation
 - Terraform
 - Python
